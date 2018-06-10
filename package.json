@@ -4,7 +4,7 @@
   "description": "A simple javascript library to detect browser idle and perform actions.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/linkorb/tweakjs.git"
+    "url": "git+git@github.com:linkorb/idlejs.git"
   },
   "keywords": [
     "idle",
@@ -14,9 +14,9 @@
   "author": "Hongliang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/linkorb/tweakjs/issues"
+    "url": "https://github.com/linkorb/idlejs/issues"
   },
-  "homepage": "https://github.com/linkorb/tweakjs#readme",
+  "homepage": "https://github.com/linkorb/idlejs#readme",
   "devDependencies": {
     "webpack": "^4.7.0"
   }
