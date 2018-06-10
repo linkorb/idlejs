@@ -1,6 +1,6 @@
 {
   "name": "@linkorb/idle",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple javascript library to detect browser idle and perform actions.",
   "repository": {
     "type": "git",
